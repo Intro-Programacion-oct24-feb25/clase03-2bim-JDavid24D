@@ -33,7 +33,7 @@ public class Ejemplo11 {
         30   52
         */
         // se usan tres arreglos bidimensioanles  1 y 2 para poder dar el 
-        //valor total al ultimo arreglo suma arreglo
+        //add .valor total al ultimo arreglo suma arreglo
         int valor1;
         int valor2;
         
